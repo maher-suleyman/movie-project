@@ -1,0 +1,87 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "c:\\Users\\maher\\Desktop\\Front-end projects\\movie-project",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2020-10-17 00:57:14",
+            "filesum": 7,
+            "codesum": 855,
+            "commentsum": 106,
+            "blanksum": 46,
+            "statistics": {
+                ".css": {
+                    "code": 332,
+                    "comment": 0,
+                    "blank": 4
+                },
+                ".md": {
+                    "code": 10,
+                    "comment": 0,
+                    "blank": 2
+                },
+                ".svg": {
+                    "code": 2,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".html": {
+                    "code": 18,
+                    "comment": 0,
+                    "blank": 3
+                },
+                ".js": {
+                    "code": 493,
+                    "comment": 106,
+                    "blank": 37
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "hex_github.svg"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "hex_linkedin.svg"
+                },
+                {
+                    "blank": 3,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "index.html"
+                },
+                {
+                    "filename": "preview.gif",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 2,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 37,
+                    "code": 493,
+                    "comment": 106,
+                    "filename": "script.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 332,
+                    "comment": 0,
+                    "filename": "style.css"
+                }
+            ]
+        }
+    ]
+}
